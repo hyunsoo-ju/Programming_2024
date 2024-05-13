@@ -1,0 +1,23 @@
+변수명을 지을 때에는 meaningful하게 지어라
+
+int i; // this is a student id 
+보다는
+int studnetID;
+가 맞다
+
+void는 argument일수도 있고, return 값일 수도 있음
+
+# every function should be preceded by a comment describing the funtion's purpose
+
+escape sequence starts with \
+
+When the linkerruns, it locates the library functions and inserts the proper calls to these library functions in the object program.
+
+& 는 주소 연산자
+
+exe is binary coded -> only 01
+when exe gets on ram, it is loaded to cpu to be runned
+
+RAM -> code session and stack session
+
+
